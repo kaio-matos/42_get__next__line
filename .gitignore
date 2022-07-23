@@ -1,0 +1,6 @@
+read.md
+*.o
+temp/*
+gnl
+test.md
+gnlTester/

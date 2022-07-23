@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "ranges": "c",
+    "utility": "c",
+    "sstream": "c",
+    "get_next_line.h": "c",
+    "type_traits": "c",
+    "random": "c"
+  }
+}
